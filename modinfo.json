@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "Bountiful_Nature_BN",
+    "name": "Bountiful Nature",
+    "authors": [ "RoyalFox" ],
+    "maintainers": [ "RoyalFox" ],
+    "description": "Brings foraging to plentiful levels like the old days..",
+    "category": "content",
+    "dependencies": [ "bn" ]
+  }
+]
